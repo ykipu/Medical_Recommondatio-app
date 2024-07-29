@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set the title of the web app
-st.title('Medical Recommendation System')
+st.title('Symptoms System')
 
 # Input fields for user symptoms
 st.header('Enter your symptoms')
